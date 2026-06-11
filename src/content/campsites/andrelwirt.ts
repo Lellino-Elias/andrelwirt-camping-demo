@@ -23,7 +23,7 @@ const andrelwirt: CampsiteConfig = {
   claim: "Mitten im Nationalpark Hohe Tauern",
   claimEmphasis: "Hohe Tauern",
   intro:
-    "Im Raurisertal, das ganze Jahr geöffnet: ebene Stellplätze in der Bergnatur, dazu Gasthof mit Restaurant, Sauna und Kiosk gleich am Platz — Naturcamping mit dem Komfort einer Hotelanlage.",
+    "Im Raurisertal, das ganze Jahr geöffnet: Stellplätze in der Bergnatur, dazu Gasthof mit Restaurant, Sauna und Kiosk gleich am Platz — Naturcamping mit dem Komfort einer Hotelanlage.",
 
   logo: { src: `${IMG}/logo-04b91d8730.png`, alt: "Logo Gasthof Andrelwirt, Rauris" },
 
@@ -81,11 +81,11 @@ const andrelwirt: CampsiteConfig = {
 
   camping: {
     heading: "Camping am Andrelwirt",
-    intro: "Ebene Stellplätze in der Bergnatur, dazu Hotel-Service rund um den Gasthof: alles, was ein entspannter Campingtag im Nationalpark braucht.",
+    intro: "Stellplätze in der Bergnatur, dazu Hotel-Service rund um den Gasthof: alles, was ein entspannter Campingtag im Nationalpark braucht.",
     features: [
       {
         title: "75 Stellplätze",
-        text: "Ebene Plätze für Wohnwagen, Wohnmobil und Zelt — mit Strom-, Wasser- und Gasanschluss, ganzjährig nutzbar, auch im Schnee.",
+        text: "Plätze für Wohnwagen, Wohnmobil und Zelt — mit Strom-, Wasser- und Gasanschluss, ganzjährig nutzbar, auch im Schnee.",
         image: { src: `${IMG}/accommodation-aa27bd3e99.webp`, alt: "Stellplätze des Camping Andrelwirt im Winter vor den verschneiten Bergen" },
       },
       {
@@ -103,32 +103,17 @@ const andrelwirt: CampsiteConfig = {
         text: "Starte mit dem Frühstücksbuffet im Gasthof in den Tag — oder hol dir frische Semmeln über den Brotservice direkt zum Platz.",
         image: { src: `${IMG}/amenity-6db7b4bd6a.webp`, alt: "Frühstück mit Speck, Spiegelei und Tomaten in der Pfanne" },
       },
-      {
-        title: "Sauna zum Aufwärmen",
-        text: "Nach Wanderung oder Skitour wartet die Sauna — Wärme und Erholung, gerade an kühlen Tagen im Raurisertal.",
-        image: { src: `${IMG}/amenity-ed507f029c.webp`, alt: "Sauna-Kübel in der Sauna des Camping Andrelwirt, Rauris" },
-      },
-      {
-        title: "Waschen & Trocknen",
-        text: "Waschmaschine, Wäschetrockner und Trockenraum gehören dazu — praktisch bei längeren Touren und bei jedem Wetter.",
-        image: { src: `${IMG}/gallery-5eef98975e.webp`, alt: "Waschmaschine im Sanitärbereich des Camping Andrelwirt" },
-      },
     ],
   },
 
   kinder: {
     heading: "Platz zum Toben",
-    intro: "Der Andrelwirt ist familienfreundlich angelegt — vom Riesentrampolin bis zum Aufenthaltsraum gibt es viel Raum für Kinder, drinnen wie draußen.",
+    intro: "Der Andrelwirt ist familienfreundlich angelegt — mit Riesentrampolin und Spielmöglichkeiten direkt am Platz.",
     features: [
       {
         title: "Riesentrampolin",
         text: "Springen, bis die Wolken über dem Tal vorbeiziehen — das Riesentrampolin am Platz ist bei den Kindern hoch im Kurs.",
         image: { src: `${IMG}/kids-d168f3dfca.webp`, alt: "Kinder springen auf dem Riesentrampolin am Camping Andrelwirt im Raurisertal" },
-      },
-      {
-        title: "Spielplatz & Kinderpool",
-        text: "Spielplatz im Freien, Kinderpool und Indoorspielplatz für Regentage — am Andrelwirt ist für den Nachwuchs gesorgt, Sommer wie Winter.",
-        image: { src: `${IMG}/kids-1666522427.webp`, alt: "Lachende Kinder am Camping Andrelwirt im Raurisertal" },
       },
     ],
   },

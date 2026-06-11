@@ -17,8 +17,7 @@ const andrelwirt: CampsiteConfig = {
   brandKind: "Nationalpark-Camping",
   regionLong: "Raurisertal · Nationalpark Hohe Tauern · Salzburger Land",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Mitten im Nationalpark Hohe Tauern",
   claimEmphasis: "Hohe Tauern",
@@ -183,7 +182,6 @@ const andrelwirt: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.228628, lng: 12.994115 },
     tel: "+43 6544 / 6411",
     telHref: "tel:+4365446411",
     mail: "info@andrelwirt.at",

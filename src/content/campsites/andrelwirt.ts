@@ -182,6 +182,7 @@ const andrelwirt: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.197467, lng: 12.977717 },
     tel: "+43 6544 / 6411",
     telHref: "tel:+4365446411",
     mail: "info@andrelwirt.at",
